@@ -15,7 +15,9 @@ There are a few suggested steps we recommend you take when getting started, whic
 
 ## 200 - Requirements
 
-
+- Web Browser
+- Internet Access
+- Account with Rindle.com
 
 ## 300 - Installation & Configuration
 
