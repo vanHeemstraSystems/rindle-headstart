@@ -17,16 +17,6 @@ See [README.md](./200/README.md)
 
 ## 300 - Installation & Configuration
 
-Step 1: Creating Boards in Rindle
+See [README.md](./300/README.md)
 
-Step 2: Adding Tasks to Your Rindle Board
-
-Step 3: Create Your First Automation
-
-Step 4: Invite Team Members to Your Rindle Boards
-
-Step 5: Creating a Baseline Workflow for Your Rindle Boards
-
-Step 6: Extra Resources for You and Your Team
-
-Step 7: Talk to us!
+More ...
