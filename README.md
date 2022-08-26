@@ -9,15 +9,11 @@ Familiarize yourself with the Rindle basics.
 
 # 100 - Introduction
 
-Rindle lets you manage your tasks, helping you stay productive and on top of your work.
-
-There are a few suggested steps we recommend you take when getting started, which will help you set up your Rindle account in a way that works best for you.
+See [README.md](./100/README.md)
 
 ## 200 - Requirements
 
-- Web Browser
-- Internet Access
-- Account with Rindle.com
+See [README.md](./200/README.md)
 
 ## 300 - Installation & Configuration
 
