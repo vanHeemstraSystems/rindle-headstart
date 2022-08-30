@@ -4,7 +4,7 @@ Looking for maximum productivity with managing your boards or notifying team mem
 
 <img width="831" alt="Screen Shot 2020-02-24 at 4 46 43 PM" src="https://user-images.githubusercontent.com/1499433/187466302-c242736c-d665-439a-be2b-4a4ff23a8759.png">
 
-To add an Automation, click on the Bot icon in the left board navigation menu.
+To add an Automation (now called Rules), click on the Bot (now: Rules) icon in the left board navigation menu.
 
 Click **Create**
 
