@@ -8,7 +8,7 @@ Name your board
 
 <img width="858" alt="Screen Shot 2020-02-24 at 4 21 41 PM" src="https://user-images.githubusercontent.com/1499433/187463163-45462eac-0f1c-444d-862b-29df5346f343.png">
 
-If you’re looking for a jump start, you can create a board from a Rindle Template. Select Choose Template.
+If you’re looking for a jump start, you can create a board from a **Rindle Template**. Select **Choose Template**.
 
 <img width="850" alt="Screen Shot 2020-02-24 at 4 25 49 PM" src="https://user-images.githubusercontent.com/1499433/187463427-0ef9eace-19e5-4091-9049-3372dacd5453.png">
 
